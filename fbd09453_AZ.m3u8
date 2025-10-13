@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:0,ATV AZ
+#EXTINF:0,ATV AZ HD
 #EXTGRP:unsorted
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:0,ATV AZ
+#EXTGRP:unsorted
+https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,XEZER
 #EXTGRP:unsorted
 http://str.yodacdn.net/xazar/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjEzLjI1MSIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU5MzExMzE5LCJqdGkiOiJkMzc4ZGNiNmMzYTgxYjBlIn0%3D.wjP1HYIgv0mi2aFobr+njreY3hO7uI%2FRs31O5h27Krs%3D
