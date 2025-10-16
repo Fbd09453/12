@@ -77,6 +77,9 @@ http://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEx
 #EXTINF:0,STAR
 #EXTGRP:unsorted
 https://tinyurl.com/y4s6e7b9
-#EXTINF:0,KANAL D
+#EXTINF:0,KEPEZ TV
 #EXTGRP:unsorted
 http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:0,KANAL D
+#EXTGRP:unsorted
+https://tinyurl.com/5xfu24kv
