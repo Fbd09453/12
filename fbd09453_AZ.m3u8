@@ -7,7 +7,7 @@ http://str2.yodacdn.net/atv/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:0,ARB TV HD AZ
 #EXTGRP:unsorted
-http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1760796901&playlistlength=5&shift=0&sid=coder_62&token=75ec703b4e9243f13ecfbab5d35fa8c7&user=37076
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:0,Space TV AZ
 #EXTGRP:unsorted
 https://str2.yodacdn.net/space/mono.m3u8
