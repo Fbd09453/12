@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,ATV AZ HD
-#EXTGRP:unsorted
-http://str1.yodacdn.net/atv/mono.m3u8
 #EXTINF:0,ATV AZ
 #EXTGRP:unsorted
 http://str2.yodacdn.net/atv/index.m3u8
