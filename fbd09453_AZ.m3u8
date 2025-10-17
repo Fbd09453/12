@@ -25,7 +25,7 @@ http://str2.yodacdn.net/aztv/mono.m3u8
 http://str2.yodacdn.net/idman/mono.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:unsorted
-https://str.yodacdn.net/tmbaz/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjE0LjIzIiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNS4wLjI7IFNNLVA5MDEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85NS4wLjQ2MzguNzQgTW9iaWxlIFNhZmFyaS81MzciLCJleHAiOjE3NTg0NjM5MjAsImp0aSI6ImZmNTk2YWI3ZTI0Nzk5Y2EifQ%3D%3D.v0%2FsTPOM%2FT3UXw4ne3hXrZbnxmAU9ECCMsPXB9nCH9Q%3D
+https://str2.yodacdn.net/tmbaz/index.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:unsorted
 http://rtmp.apa.tv/@pagroup!23.m3u8
@@ -34,46 +34,46 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:0,NAXCIVAN TV
 #EXTGRP:unsorted
-http://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjIwLjIzIiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNS4wLjI7IFNNLVA5MDEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85NS4wLjQ2MzguNzQgTW9iaWxlIFNhZmFyaS81MzciLCJleHAiOjE3NTg0NjM4MTgsImp0aSI6ImEzYTYxMWIwNjYyNzAxOWIifQ%3D%3D.I+K3moUuHes1FEyRy6vjcCyFTytVFzaLWKq+%2FIEM8TE%3D
+https://str2.yodacdn.net/ntv/index.m3u8
 #EXTINF:0,QAFQAZ TV
 #EXTGRP:unsorted
-https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjE0LjIzIiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNS4wLjI7IFNNLVA5MDEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85NS4wLjQ2MzguNzQgTW9iaWxlIFNhZmFyaS81MzciLCJleHAiOjE3NTg0NjMxNDMsImp0aSI6IjdiZmY4ODk3ZmIxMGExMjcifQ%3D%3D.RPvLWuGyT%2FnOCzDU36AYaz3%2FzKzxa+xFXy9ssY2gk8s%3D
+https://str2.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:0,CBC AZ
 #EXTGRP:unsorted
 http://str2.yodacdn.net/cbc/mono.m3u8
 #EXTINF:0,BAKU TV
 #EXTGRP:unsorted
-https://str.yodacdn.net/bakutv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjExNi4xNjIiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA1LjAuMjsgU00tUDkwMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk1LjAuNDYzOC43NCBNb2JpbGUgU2FmYXJpLzUzNyIsImV4cCI6MTc1ODU2MTc2MCwianRpIjoiNzUyMTZiMTcyODNlYmJmOCJ9.8pPhGJlHfafHxAwHZpFbLa%2FDyLAFHuuxsg%2F0onSr954%3D
+https://str2.yodacdn.net/bakutv/index.m3u8
 #EXTINF:0,TMB
 #EXTGRP:unsorted
-https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyNS4zNCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU4NTYxOTkxLCJqdGkiOiIwNmU4MjYzY2VhZmM4NDI2In0%3D.0Bgz2t3uofUpGC%2F6LXIvKsKn8Pbd7XWD0+uFdWoefGc%3D
+https://str2.yodacdn.net/tmbtr/index.m3u8
 #EXTINF:0,ARB 24
 #EXTGRP:unsorted
-https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyNS4zNCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU4NTYxODUwLCJqdGkiOiI5ZGNjZDBmN2MzNDdiYjcyIn0%3D.6M%2FE4NMU4gBdbXBz62k5Vqa9GGtNM+QwZxdAFs6ucKY%3D
+https://str2.yodacdn.net/arb24/index.m3u8
 #EXTINF:0,REAL TV
 #EXTGRP:unsorted
-https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyNS4zNCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU4NTYxOTAxLCJqdGkiOiIzYjhiYTRjYWQ1ZjkzZmYyIn0%3D.JNBFYk6hPz%2F3WS9u8bTyFiKbQdZecZnTy+83xfkYZvU%3D
+https://str2.yodacdn.net/real/index.m3u8
 #EXTINF:0,KANAL S
 #EXTGRP:unsorted
-https://str.yodacdn.net/start/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyNS4zNCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU4NTYyMDQwLCJqdGkiOiJiMGMwNTc3NGU4YzRkMWMyIn0%3D.SMgLPPQUF3eZGk0dhX9OjglpDfyE6TzDGXSlHj4BoIU%3D
+https://str2.yodacdn.net/start/index.m3u8
 #EXTINF:0,ARB GUNES
 #EXTGRP:unsorted
-https://str.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyNS4zNCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU4NTYyMjU2LCJqdGkiOiIyM2YwZjEyOTNlMTNkM2M4In0%3D.WlrH%2Fd3zWDmeqxFnZlmFnY3S89J4vHm3X4gzWvvi%2F34%3D
+https://str2.yodacdn.net/arbgunesh/index.m3u8
 #EXTINF:0,MEDENIYYET
 #EXTGRP:unsorted
-http://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjIyLjEyMyIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU5MzEzMDM4LCJqdGkiOiJmNmE2YTQ3NzM0NDU4NGNjIn0%3D.hXHJPy4X0%2F418s6C9Z7II3A4yP8+t3s2MLPfWNjXOug%3D
+https://str2.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:0,ELTV
 #EXTGRP:unsorted
-https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjExNi4xNjIiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA1LjAuMjsgU00tUDkwMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk1LjAuNDYzOC43NCBNb2JpbGUgU2FmYXJpLzUzNyIsImV4cCI6MTc1ODU2MjM2MywianRpIjoiMTc5NzA4MGNmZjZhZmU4YyJ9.uNS+DwFq3cuKcDP83bGTNpeF3cyEdKK6CpS5zVybBUc%3D
+https://str2.yodacdn.net/eltv/index.m3u8
 #EXTINF:0,BIZNES TV
 #EXTGRP:unsorted
-http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjExMy4zOCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU5MjU5MjEyLCJqdGkiOiIxMjkyYTgyYzFiMzA3MGJjIn0%3D.mL6x3IcPfQwN+7irGDUno8SpO+JKb7K95UJa3AsMeiw%3D
+https://str2.yodacdn.net/biznestv/index.m3u8
 #EXTINF:0,SEHIYYE TV
 #EXTGRP:unsorted
-http://str.yodacdn.net/shtv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMi4zOCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU5MjU5NTA5LCJqdGkiOiIzOWZjNmNjZmE5NWQxZDNjIn0%3D.m%2FdG+2ZpaV3s9f%2FHf49BMaaTqImznbXtYfECI104qYw%3D
+https://str2.yodacdn.net/shtv/index.m3u8
 #EXTINF:0,MTV AZ
 #EXTGRP:unsorted
-http://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjExMy4zOCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMC4yOyBTTS1QOTAxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTUuMC40NjM4Ljc0IE1vYmlsZSBTYWZhcmkvNTM3IiwiZXhwIjoxNzU5MjU5NzY3LCJqdGkiOiIxOTAyMjQxNDdhNDJkOTQ2In0%3D.2N3d8XulirBbR2oS7dejqsC0HyUCMSBjBWCjQNrBzKU%3D
+https://str2.yodacdn.net/mtvaz/index.m3u8
 #EXTINF:0,STAR
 #EXTGRP:unsorted
 https://tinyurl.com/y4s6e7b9
@@ -83,3 +83,6 @@ http://85.132.78.122:8050/dashjs/stream/index.mpd
 #EXTINF:0,KANAL D
 #EXTGRP:unsorted
 https://tinyurl.com/5xfu24kv
+#EXTINF:0,GUNAZ TV
+#EXTGRP:unsorted
+https://gunazsrs.2meet.az/live/livestream.m3u8
