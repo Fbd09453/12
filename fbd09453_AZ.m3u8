@@ -14,6 +14,10 @@ https://str2.yodacdn.net/space/mono.m3u8
 #EXTINF:0,Ictimai TV AZ
 #EXTGRP:unsorted
 http://str2.yodacdn.net/ictimai/index.m3u8
+#EXTINF:0,Ictimai TV AZ HD
+#EXTGRP:unsorted
+https://live.itv.az/itv.m3u8
+#EXTGRP:unsorted
 #EXTINF:0,AZTV
 #EXTGRP:unsorted
 http://str2.yodacdn.net/aztv/mono.m3u8
