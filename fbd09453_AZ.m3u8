@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,ATV AZ
 #EXTGRP:unsorted
-http://str2.yodacdn.net/atv/index.m3u8
+http://str1.yodacdn.net/atv/index.m3u8
 #EXTINF:0,XEZER HD
 #EXTGRP:unsorted
 http://str1.yodacdn.net/xazar/index.m3u8
@@ -13,23 +13,23 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:0,Space TV AZ
 #EXTGRP:unsorted
-https://str2.yodacdn.net/space/mono.m3u8
+https://str1.yodacdn.net/space/mono.m3u8
 #EXTINF:0,Ictimai TV AZ
 #EXTGRP:unsorted
-http://str2.yodacdn.net/ictimai/index.m3u8
+http://str1.yodacdn.net/ictimai/index.m3u8
 #EXTINF:0,Ictimai TV AZ HD
 #EXTGRP:unsorted
 https://live.itv.az/itv.m3u8
 #EXTGRP:unsorted
 #EXTINF:0,AZTV
 #EXTGRP:unsorted
-http://str2.yodacdn.net/aztv/mono.m3u8
+http://str1.yodacdn.net/aztv/mono.m3u8
 #EXTINF:0,IDMAN
 #EXTGRP:unsorted
-http://str2.yodacdn.net/idman/mono.m3u8
+http://str1.yodacdn.net/idman/mono.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:unsorted
-https://str2.yodacdn.net/tmbaz/index.m3u8
+https://str1.yodacdn.net/tmbaz/index.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:unsorted
 http://rtmp.apa.tv/@pagroup!23.m3u8
@@ -38,46 +38,46 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:0,NAXCIVAN TV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/ntv/index.m3u8
+https://str1.yodacdn.net/ntv/index.m3u8
 #EXTINF:0,QAFQAZ TV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/qafkaz/index.m3u8
+https://str1.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:0,CBC AZ
 #EXTGRP:unsorted
-http://str2.yodacdn.net/cbc/mono.m3u8
+http://str1.yodacdn.net/cbc/mono.m3u8
 #EXTINF:0,BAKU TV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/bakutv/index.m3u8
+https://str1.yodacdn.net/bakutv/index.m3u8
 #EXTINF:0,TMB
 #EXTGRP:unsorted
-https://str2.yodacdn.net/tmbtr/index.m3u8
+https://str1.yodacdn.net/tmbtr/index.m3u8
 #EXTINF:0,ARB 24
 #EXTGRP:unsorted
-https://str2.yodacdn.net/arb24/index.m3u8
+https://str1.yodacdn.net/arb24/index.m3u8
 #EXTINF:0,REAL TV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/real/index.m3u8
+https://str1.yodacdn.net/real/index.m3u8
 #EXTINF:0,KANAL S
 #EXTGRP:unsorted
-https://str2.yodacdn.net/start/index.m3u8
+https://str1.yodacdn.net/start/index.m3u8
 #EXTINF:0,ARB GUNES
 #EXTGRP:unsorted
-https://str2.yodacdn.net/arbgunesh/index.m3u8
+https://str1.yodacdn.net/arbgunesh/index.m3u8
 #EXTINF:0,MEDENIYYET
 #EXTGRP:unsorted
-https://str2.yodacdn.net/medeniyyet/index.m3u8
+https://str1.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:0,ELTV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/eltv/index.m3u8
+https://str1.yodacdn.net/eltv/index.m3u8
 #EXTINF:0,BIZNES TV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/biznestv/index.m3u8
+https://str1.yodacdn.net/biznestv/index.m3u8
 #EXTINF:0,SEHIYYE TV
 #EXTGRP:unsorted
-https://str2.yodacdn.net/shtv/index.m3u8
+https://str1.yodacdn.net/shtv/index.m3u8
 #EXTINF:0,MTV AZ
 #EXTGRP:unsorted
-https://str2.yodacdn.net/mtvaz/index.m3u8
+https://str1.yodacdn.net/mtvaz/index.m3u8
 #EXTINF:0,STAR
 #EXTGRP:unsorted
 https://tinyurl.com/y4s6e7b9
