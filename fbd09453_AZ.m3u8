@@ -65,7 +65,7 @@ https://str2.yodacdn.net/start/index.m3u8
 https://str2.yodacdn.net/arbgunesh/index.m3u8
 #EXTINF:0,MEDENIYYET
 #EXTGRP:unsorted
-https://str2.yodacdn.net/medeniyyet/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/medeniyet-tv.m3u8
 #EXTINF:0,ELTV
 #EXTGRP:unsorted
 https://str2.yodacdn.net/eltv/index.m3u8
