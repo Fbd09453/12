@@ -1,16 +1,19 @@
 #EXTM3U
 #EXTINF:0,ATV AZ
 #EXTGRP:unsorted
-http://str1.yodacdn.net/atv/index.m3u8
-#EXTINF:0,XEZER HD
+http://str2.yodacdn.net/atv/index.m3u8
+#EXTINF:0,ATV AZ HD
 #EXTGRP:unsorted
-http://str1.yodacdn.net/xazartv/index.m3u8
-#EXTINF:0,XEZER
-#EXTGRP:unsorted
-http://vghzcl6r.alfalt.fun/iptv/Q3NDYY8SALS8XPXGP7BF6FN7/2199/index.m3u
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:0,ARB TV AZ HD
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:0,XEZER
+#EXTGRP:unsorted
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:0,XEZER HD
+#EXTGRP:unsorted
+http://str1.yodacdn.net/xazartv/index.m3u8
 #EXTINF:0,Space TV AZ
 #EXTGRP:unsorted
 https://str1.yodacdn.net/space/mono.m3u8
@@ -19,20 +22,19 @@ https://str1.yodacdn.net/space/mono.m3u8
 http://str1.yodacdn.net/ictimaitele/index.m3u8
 #EXTINF:0,Ictimai TV AZ HD
 #EXTGRP:unsorted
-https://live.itv.az/itv.m3u8
-#EXTGRP:unsorted
+https://live.itv.az/itv.m3u8#EXTGRP:unsorted
 #EXTINF:0,AZTV
 #EXTGRP:unsorted
 http://str1.yodacdn.net/azertv/mono.m3u8
 #EXTINF:0,IDMAN
 #EXTGRP:unsorted
-http://str1.yodacdn.net/idman/mono.m3u8
+https://str.yodacdn.net/idmantele/index.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:unsorted
 https://str1.yodacdn.net/tmbaz/index.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:unsorted
-http://rtmp.apa.tv/@pagroup!23.m3u8
+https://str1.yodacdn.net/apatv/index.m3u8
 #EXTINF:0,CBC SPORT AZ
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
@@ -59,7 +61,7 @@ https://str1.yodacdn.net/arb24/index.m3u8
 https://str1.yodacdn.net/real/index.m3u8
 #EXTINF:0,KANAL S
 #EXTGRP:unsorted
-https://str1.yodacdn.net/start/index.m3u8
+https://str2.yodacdn.net/start/index.m3u8
 #EXTINF:0,ARB GUNES
 #EXTGRP:unsorted
 https://str1.yodacdn.net/arbgunesh/index.m3u8
@@ -72,9 +74,6 @@ https://str1.yodacdn.net/eltv/index.m3u8
 #EXTINF:0,BIZNES TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/biznestv/index.m3u8
-#EXTINF:0,SEHIYYE TV
-#EXTGRP:unsorted
-https://str1.yodacdn.net/shtv/index.m3u8
 #EXTINF:0,MTV AZ
 #EXTGRP:unsorted
 https://str1.yodacdn.net/mtvaz/index.m3u8
@@ -89,7 +88,7 @@ http://85.132.78.122:8050/dashjs/stream/index.mpd
 https://tinyurl.com/5xfu24kv
 #EXTINF:0,GUNAZ TV
 #EXTGRP:unsorted
-https://gunazsrs.2meet.az/live/livestream.m3u8
+https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:0,DUNYA TV
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
