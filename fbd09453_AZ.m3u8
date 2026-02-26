@@ -19,7 +19,7 @@ http://str1.yodacdn.net/xazartv/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:0,Space TV AZ
 #EXTGRP:unsorted
-https://str1.yodacdn.net/space/mono.m3u8
+https://str1.yodacdn.net/space/index.m3u8
 #EXTINF:0,Ictimai TV AZ
 #EXTGRP:unsorted
 http://str1.yodacdn.net/ictimaitele/index.m3u8
@@ -28,7 +28,7 @@ http://str1.yodacdn.net/ictimaitele/index.m3u8
 https://live.itv.az/itv.m3u8#EXTGRP:unsorted
 #EXTINF:0,AZTV
 #EXTGRP:unsorted
-http://str1.yodacdn.net/azertv/mono.m3u8
+http://str1.yodacdn.net/azertv/index.m3u8
 #EXTINF:0,IDMAN
 #EXTGRP:unsorted
 https://str.yodacdn.net/idmantele/index.m3u8
@@ -68,9 +68,12 @@ https://str2.yodacdn.net/start/index.m3u8
 #EXTINF:0,ARB GUNES
 #EXTGRP:unsorted
 https://str1.yodacdn.net/arbgunesh/index.m3u8
-#EXTINF:0,MEDENIYYET
+#EXTINF:0,MEDENIYET HD
 #EXTGRP:unsorted
 https://str2.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:0,MEDENIYET HD
+#EXTGRP:unsorted
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/medeniyet-tv.m3u8
 #EXTINF:0,ELTV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/eltv/index.m3u8
