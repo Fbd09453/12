@@ -10,9 +10,6 @@ https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 https://str2.yodacdn.net/arb/index.m3u8
 #EXTINF:0,XEZER
 #EXTGRP:unsorted
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:0,XEZER HD
-#EXTGRP:unsorted
 http://str1.yodacdn.net/xazartv/index.m3u8
 #EXTINF:0,Space TV AZ
 #EXTGRP:unsorted
@@ -67,7 +64,7 @@ https://str2.yodacdn.net/start/index.m3u8
 https://str1.yodacdn.net/arbgunesh/index.m3u8
 #EXTINF:0,MEDENIYYET
 #EXTGRP:unsorted
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/medeniyet-tv.m3u8
+https://str2.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:0,ELTV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/eltv/index.m3u8
@@ -89,9 +86,6 @@ https://tinyurl.com/5xfu24kv
 #EXTINF:0,GUNAZ TV
 #EXTGRP:unsorted
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:0,DUNYA TV
-#EXTGRP:unsorted
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:0,KANAL 35
 #EXTGRP:unsorted
 https://str1.yodacdn.net/kanal35/index.m3u8
