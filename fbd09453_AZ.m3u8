@@ -26,6 +26,9 @@ http://str1.yodacdn.net/ictimaitele/index.m3u8
 #EXTINF:0,Ictimai TV AZ HD
 #EXTGRP:unsorted
 https://live.itv.az/itv.m3u8#EXTGRP:unsorted
+#EXTINF:0,Ictimai TV
+#EXTGRP:unsorted
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:0,AZTV
 #EXTGRP:unsorted
 http://str1.yodacdn.net/azertv/index.m3u8
