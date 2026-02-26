@@ -11,10 +11,10 @@ https://str1.yodacdn.net/arb/index.m3u8
 #EXTINF:0,ARB TV AZ HD
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
-#EXTINF:0,XEZER
+#EXTINF:0,XEZER HD
 #EXTGRP:unsorted
 http://str1.yodacdn.net/xazartv/index.m3u8
-#EXTINF:0,XEZER HD
+#EXTINF:0,XEZER
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:0,Space TV AZ
