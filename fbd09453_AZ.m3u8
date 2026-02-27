@@ -107,3 +107,13 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:0,ALVIN TV
 #EXTGRP:unsorted
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0,DREAM TURK
+#EXTGRP:unsorted
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:0,ATV CINEMA
+#EXTGRP:unsorted
+http://vghzcl6r.alfalt.fun/iptv/HBHPK9FK755LG3/2120/index.m3u8
+#EXTINF:0,ATV VIVACE
+#EXTGRP:unsorted
+http://vghzcl6r.alfalt.fun/iptv/HBHPK9FK755LG3/16068/index.m3u8
+
