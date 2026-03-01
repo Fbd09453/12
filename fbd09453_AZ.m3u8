@@ -137,7 +137,7 @@ https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/
 #EXTINF:0,AYAZ TV
 #EXTGRP:unsorted
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:0,POWERTURK
+#EXTINF:0,POWERTURK TV
 #EXTGRP:unsorted
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:0,POWER TV
