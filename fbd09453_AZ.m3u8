@@ -134,3 +134,6 @@ https://cdn4.yayin.com.tr/kntv/index.m3u8
 #EXTINF:0,TV1 AZ
 #EXTGRP:unsorted
 https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
+#EXTINF:0,AYAZ TV
+#EXTGRP:unsorted
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
