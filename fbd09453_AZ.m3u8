@@ -13,7 +13,7 @@ https://str1.yodacdn.net/arb/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
 #EXTINF:0,XEZER HD
 #EXTGRP:unsorted
-http://str1.yodacdn.net/xazartv/index.m3u8
+http://str2.yodacdn.net/xazartv/tracks-v1a1/playlist.m3u8
 #EXTINF:0,XEZER
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/xezer-tv.m3u8
@@ -52,7 +52,7 @@ https://str1.yodacdn.net/ntv/index.m3u8
 https://str1.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:0,CBC AZ
 #EXTGRP:unsorted
-http://str1.yodacdn.net/cbc/mono.m3u8
+http://str1.yodacdn.net/cbc/playlist.m3u8
 #EXTINF:0,BAKU TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/bakutv/index.m3u8
