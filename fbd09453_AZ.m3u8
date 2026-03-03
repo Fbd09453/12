@@ -4,16 +4,16 @@
 http://str2.yodacdn.net/atv/index.m3u8
 #EXTINF:0,ATV AZ HD
 #EXTGRP:unsorted
-https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+https://node2-az-baku-delta.streamy.group/stream/5sygi87akp4th877g6rvgtecry9wvepvrd3er4jcx9yyyun85qyemnhytnvpfmywedvrqar5yweb5dtq2mym5kryuiim44sf8e975332y8j3zy3xx6ec4nt9ip2feez4zkj9hgujp3ih5vfjkacsgw362yg3gdjejysmfq4cvbaihmdacyrtib32khi4mp2=.m3u8
 #EXTINF:0,ARB TV AZ
 #EXTGRP:unsorted
 https://str1.yodacdn.net/arb/index.m3u8
 #EXTINF:0,ARB TV AZ HD
 #EXTGRP:unsorted
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
+https://node1-az-baku-delta.streamy.group/stream/zaebhjgg9eyfsgkpq3fviazy4zpgjbum8m8psdgvs7r2dqp6emhtcra2znnrzh9ayhybujc26wfpmcjymacq4gzv4upyuez263d3crvk6zeaik7mix6nr9hp39c5v5kd2psdvzhetz9vy9v4szgzb6gzdedr84p8ktbadfumwrbjsmjwfhe4xvif4fepjes=.m3u8
 #EXTINF:0,XEZER HD
 #EXTGRP:unsorted
-http://str2.yodacdn.net/xazartv/tracks-v1a1/index.m3u8
+https://node2-az-baku-delta.streamy.group/stream/c3tf6b95wj97igsvvk2u6rgwujahvwis5d9un4vxab8vqresdcfet5sen5pkigmbhp767wg5qyx499pr8fk7pa3gzdktf9thq3iu97428mp9xhz8amj5ajntifi8i9jdvnpha68cmxaz72xvbjk9qy5c8jtufvw43y3htnm6ezjx5uxjixfa====.m3u8
 #EXTINF:0,XEZER
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/xezer-tv.m3u8
@@ -43,7 +43,7 @@ https://str1.yodacdn.net/tmbaz/index.m3u8
 https://str1.yodacdn.net/apatv/index.m3u8
 #EXTINF:0,CBC SPORT AZ
 #EXTGRP:unsorted
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+https://node2-az-baku-delta.streamy.group/stream/6nehmhgqwa8w7ue37ggz8hnydicccnuzer96j54is99dj7jbk8yjrxwdztipcevj74ffyhzax76c36brxdk995zn55cfjqjh7rarnb2ympcepgyifvmp25mpv2x4dr3jzd5tqndywwvgnwaxa5zfnigh837e8stwr8h347zp3vmw7r85n967jwxib9sg4ia=.m3u8
 #EXTINF:0,NAXCIVAN TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/ntv/index.m3u8
@@ -52,7 +52,7 @@ https://str1.yodacdn.net/ntv/index.m3u8
 https://str1.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:0,CBC AZ
 #EXTGRP:unsorted
-http://str1.yodacdn.net/cbc/playlist.m3u8
+https://node2-az-baku-delta.streamy.group/stream/aisc3uyrykuuiziyc7sgh2geukgxqwnudv7xmp75qj3arjmref8dubyz7qieukha9qftwib7x33a3a7kyd46zvcvvycyraq4c58w296y4wr36s3cu5ua2z94xg6xa334gpgg8hycxmz87yjb8f8j46hkp66h2c89qq92dtnynwb7nuanpz8s====.m3u8
 #EXTINF:0,BAKU TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/bakutv/index.m3u8
@@ -64,7 +64,7 @@ https://str1.yodacdn.net/tmbtr/index.m3u8
 https://str1.yodacdn.net/arb24/index.m3u8
 #EXTINF:0,REAL TV
 #EXTGRP:unsorted
-https://str1.yodacdn.net/real/index.m3u8
+https://node2-az-baku-delta.streamy.group/stream/ud8jfi5cakdb6dmw2qgwj6cbwvyuckjkp4ncfxew3j8srmyptqpdhgz4pg7hqjdw2vitiha5fcxs7esmcufpwc3brw7yyivzvuhfzu9tpdfubmp4xhehsr2qthbk6xscdezyznrpacmrdcvtyr9wxueifvyqyc3jskt9nq3xs75krn93pmxb44s=.m3u8
 #EXTINF:0,KANAL S
 #EXTGRP:unsorted
 https://str2.yodacdn.net/start/index.m3u8
@@ -149,3 +149,15 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 #EXTINF:0,NUMBER ONE TURK TV
 #EXTGRP:unsorted
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:0,SEHIYYE TV
+#EXTGRP:unsorted
+https://node1-az-baku-delta.streamy.group/stream/kcn2mt49n6xzvxndihk2ee4a5tfnn327mmxc52pr8mfipmajgtauzdfukc9erq43pj83s3swqq5938p55qrtzry7g29kwmire8tb8cmttpnjuqzw2xsjmx4diegjvcssg2m38642my2twrpf2j36gfgyzsr2eaw7e6kvj58r6cethhxiin======.m3u8
+#EXTINF:0,SHOW PLUS TV
+#EXTGRP:unsorted
+https://node1-az-baku-delta.streamy.group/stream/phj55kfzsgji23nraiixe92vf5vum5s2ywdvi8wrqhg25xqxefhbihwkauy8m4fukhwkd64yn4ghn96efrwpnqcpytbrazpzygdpsswy93v4q4k8pkhkwdhn9vjxgth997t3i3wxxyjcpgagmx8jc8fjx45cihftjjjii4un4wjavyq5fdys====.m3u8
+#EXTINF:0,ATV CINEMA
+#EXTGRP:unsorted
+https://node1-az-baku-delta.streamy.group/stream/6vqabivkjfvdrd6v688uc4db4sgyuggb3jzzrff744djhunaqy3xpmhmn5vrz9x7qnk2xsytpicadccmwrmm5u4phdu88fvx5js7bsye2jbacbpsybwfkhy2qn7pzmwyvhbwacb7f6x6grbnxheuxgdnhj4qf3s6qqedrpj3kwjvnsrphjkyrhvm7856xwi=.m3u8
+#EXTINF:0,ATV VIVACE
+#EXTGRP:unsorted
+https://node2-az-baku-delta.streamy.group/stream/cv4iefsr7y2krgf4huy5e5t2gum9954bwdyeyw5an34ha5apucuaeu87r2njk2t65bs6tcthp68bqnrjt2agzzineurmcqix459sv2r7i4bdsyu6d2ry6ka8jzg6jfw7ssezzbp884vkuz5h8v29x5h2kpy25y2piwb6y8sbefsf5hwvgubqcigjjj6awca=.m3u8
