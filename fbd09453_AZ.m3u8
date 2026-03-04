@@ -71,10 +71,10 @@ http://str2.yodacdn.net/start/tracks-v1a1/index.m3u8
 #EXTINF:0,ARB GUNES
 #EXTGRP:unsorted
 https://str1.yodacdn.net/arbgunesh/index.m3u8
-#EXTINF:0,MEDENIYET HD
+#EXTINF:0,MEDENIYYET HD
 #EXTGRP:unsorted
 https://str1.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:0,MEDENIYET
+#EXTINF:0,MEDENIYYET
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/medeniyet-tv.m3u8
 #EXTINF:0,ELTV
@@ -116,9 +116,9 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:0,KONUL TV
 #EXTGRP:unsorted
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/tracks-v1a1/mono.m3u8
-#EXTINF:0,KANAL 36
+#EXTINF:0,SHOW PLUS TV
 #EXTGRP:unsorted
-https://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
+https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:0,ALVIN OVCU
 #EXTGRP:unsorted
 https://catcast.ismailturret.workers.dev/alvinovcu.m3u8
