@@ -25,7 +25,7 @@ https://str1.yodacdn.net/space/index.m3u8
 http://str1.yodacdn.net/ictimaitele/index.m3u8
 #EXTINF:0,Ictimai TV AZ HD
 #EXTGRP:unsorted
-https://live.itv.az/itv.m3u8#EXTGRP:unsorted
+https://node2-az-baku-delta.streamy.group/stream/qxe5sugsa79bsram3ut8yjcdh88j66vdkr39q9vughva924zpp33bbw89gx2acgt69pi6uekikc6jiujik4ssnjpzikia9cjrer5ziteqhfun3yk5mr2bawhjbgb3ebvawj8s7xgqy6a8jgwgu6vmbgd9qbz7a4p23kyyh4ajhz8dx7bt3ks====.m3u8
 #EXTINF:0,Ictimai TV
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/ictimai-tv.m3u8
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://node2-az-baku-delta.streamy.group/stream/puuawvhejxfg9atsqy6qnbkm4vrn74jveic2dg59cngs76urk7nifkjvq49at3uchby92isbnx3dcq6rbpmqu5ht2ss4zbc56hsk8s5qbavkehmfmy4w7d63sgp2q2v66qgpj5ssa6dc3dajrgq9eqv2pt6vmzj8irnbj6wtq94jbeizv2bs====.m3u8
 #EXTINF:0,IDMAN
 #EXTGRP:unsorted
-https://str.yodacdn.net/idmantele/index.m3u8
+https://node1-az-baku-delta.streamy.group/stream/67hp5a57vj4qbk7p4izi5tk7fwdyxvuztbvwqxmchekimh32x5prfr66i4q9r4w64z7vvz4f4gqbs26z5m4qtwgsdttmmf2hybx8tkrkw37nuiey7spw4k63r7ppgp7cx6ytpemmcsr38sgpxiucz9zvc6kdmebcwamevwcfusm5r8bj9pns====.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:unsorted
 https://str1.yodacdn.net/tmbaz/index.m3u8
@@ -70,11 +70,11 @@ https://node2-az-baku-delta.streamy.group/stream/ud8jfi5cakdb6dmw2qgwj6cbwvyuckj
 https://str2.yodacdn.net/start/index.m3u8
 #EXTINF:0,ARB GUNES
 #EXTGRP:unsorted
-https://str1.yodacdn.net/arbgunesh/index.m3u8
+https://node2-az-baku-delta.streamy.group/stream/nkwy9axsqmwrtnfvxhtyuv8kgsbvs9mn8urkgnjup5ici4bi5vt9dcdkrpnzvw7m287jjh46rz2vhvwy28fd3xk5br7irbis8v8h22ncy63mqmn9yivxmu268mi7t26y2ms7qg9skjcvdtrn5ewe476qq7wre34bf64jhusbxjpseaw5hdda====.m3u8
 #EXTINF:0,MEDENIYET HD
 #EXTGRP:unsorted
-https://str2.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:0,MEDENIYET HD
+https://node2-az-baku-delta.streamy.group/stream/8qqwkrd55npmi55ng4m3wf22k547epaicwmscy442fwsn6b45qrx3jsxsim6k5pv2qqhexebwzrpne8zkfdhswijd27qnj83xdihz6uq32bs3e4gmbt4fz47tsmb84syjpph8c9i3z5tmpwrw45jsgbrqtu2gk4rj9nhuakbi73mzkxffcns===.m3u8
+#EXTINF:0,MEDENIYET
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/medeniyet-tv.m3u8
 #EXTINF:0,ELTV
@@ -85,7 +85,7 @@ https://str1.yodacdn.net/eltv/index.m3u8
 https://str1.yodacdn.net/biznestv/index.m3u8
 #EXTINF:0,MTV AZ
 #EXTGRP:unsorted
-https://str1.yodacdn.net/mtvaz/index.m3u8
+https://node1-az-baku-delta.streamy.group/stream/ueegahncssujimtxdtx9enyythu69t2p7wzz5ucdpg8zxfwkd64xqejijujqvxq69qg4knymtnpz7d6dkdqnyg8qme5u8n3u8s4xfxbx6cj9a37g4nk49kh3sh4aygr6dsktrf3i84bvya2z5mc3uhqwntvhjezieabcyswdq6i46a6s.m3u8
 #EXTINF:0,STAR
 #EXTGRP:unsorted
 https://tinyurl.com/y4s6e7b9
