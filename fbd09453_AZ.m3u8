@@ -67,7 +67,7 @@ https://node1-az-baku-delta.streamy.group/stream/vwbnncxfi6t6cqfj79w99jxwqmqu4pt
 https://node2-az-baku-delta.streamy.group/stream/ud8jfi5cakdb6dmw2qgwj6cbwvyuckjkp4ncfxew3j8srmyptqpdhgz4pg7hqjdw2vitiha5fcxs7esmcufpwc3brw7yyivzvuhfzu9tpdfubmp4xhehsr2qthbk6xscdezyznrpacmrdcvtyr9wxueifvyqyc3jskt9nq3xs75krn93pmxb44s=.m3u8
 #EXTINF:0,KANAL S
 #EXTGRP:unsorted
-https://str2.yodacdn.net/start/index.m3u8
+https://node1-az-baku-delta.streamy.group/stream/mcxrckfahzhximvdufq8z9i4dyqzzjw658fqdayf6d9ffmag9vz9fihxgu3yw3fhbmn8y5tu5fxwhucr7r6cseqndsixvf5ha3nbiqw28f82i8ttjvrjuib7uvwp9nyzw5pnxzeicfackx6kbcs7i79fsz5fu5d9ajqmtfvzanbjtgknyfxs====.m3u8
 #EXTINF:0,ARB GUNES
 #EXTGRP:unsorted
 https://node2-az-baku-delta.streamy.group/stream/nkwy9axsqmwrtnfvxhtyuv8kgsbvs9mn8urkgnjup5ici4bi5vt9dcdkrpnzvw7m287jjh46rz2vhvwy28fd3xk5br7irbis8v8h22ncy63mqmn9yivxmu268mi7t26y2ms7qg9skjcvdtrn5ewe476qq7wre34bf64jhusbxjpseaw5hdda====.m3u8
@@ -161,3 +161,6 @@ https://node1-az-baku-delta.streamy.group/stream/6vqabivkjfvdrd6v688uc4db4sgyugg
 #EXTINF:0,ATV VIVACE
 #EXTGRP:unsorted
 https://node2-az-baku-delta.streamy.group/stream/cv4iefsr7y2krgf4huy5e5t2gum9954bwdyeyw5an34ha5apucuaeu87r2njk2t65bs6tcthp68bqnrjt2agzzineurmcqix459sv2r7i4bdsyu6d2ry6ka8jzg6jfw7ssezzbp884vkuz5h8v29x5h2kpy25y2piwb6y8sbefsf5hwvgubqcigjjj6awca=.m3u8
+#EXTINF:0,ANEWZ
+#EXTGRP:unsorted
+https://node1-az-baku-delta.streamy.group/stream/s3usqdf5ntwpvctqhjn3mbxtneqez2upxx5gk79g326a6dd4jjtrm7kr5aqtuwy6nxhf5ne34rwwwngbnhzg95526uhttyqvw4hgiad8nstj24u6595y4qvmjjbpy5an3na389782aqqn9atxfbyvchpc5qx87mcyukiucrt72vfq7xp6jha====.m3u8
