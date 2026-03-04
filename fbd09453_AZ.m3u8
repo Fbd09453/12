@@ -37,7 +37,7 @@ https://node2-az-baku-delta.streamy.group/stream/puuawvhejxfg9atsqy6qnbkm4vrn74j
 https://node1-az-baku-delta.streamy.group/stream/67hp5a57vj4qbk7p4izi5tk7fwdyxvuztbvwqxmchekimh32x5prfr66i4q9r4w64z7vvz4f4gqbs26z5m4qtwgsdttmmf2hybx8tkrkw37nuiey7spw4k63r7ppgp7cx6ytpemmcsr38sgpxiucz9zvc6kdmebcwamevwcfusm5r8bj9pns====.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:unsorted
-https://str1.yodacdn.net/tmbaz/index.m3u8
+https://node2-az-baku-delta.streamy.group/stream/tixpk6wq6j4ya45ys2v46fuhjnbshut9uj56tqec49m7ygvusaatchaq8b44z3tyrbbvyiujuid79cqj59w8jj2aswnukhxucx6sur4qjzjssp5aaavk2qxw6adkqz69mmue22esixrkw8s2a4hbdq2vmkdsqnp7ujawe3pe2g8zda5iay7s====.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/apatv/index.m3u8
@@ -46,7 +46,7 @@ https://str1.yodacdn.net/apatv/index.m3u8
 https://node2-az-baku-delta.streamy.group/stream/6nehmhgqwa8w7ue37ggz8hnydicccnuzer96j54is99dj7jbk8yjrxwdztipcevj74ffyhzax76c36brxdk995zn55cfjqjh7rarnb2ympcepgyifvmp25mpv2x4dr3jzd5tqndywwvgnwaxa5zfnigh837e8stwr8h347zp3vmw7r85n967jwxib9sg4ia=.m3u8
 #EXTINF:0,NAXCIVAN TV
 #EXTGRP:unsorted
-https://str1.yodacdn.net/ntv/index.m3u8
+https://node1-az-baku-delta.streamy.group/stream/5wzhzxcfafgim9a3jqbgwum6e7ebqyr5tcfe2q6h92d5ejsan9kpxw2yht4ym5rqh4bppi5bt6ydm6xsrvzdqmjyna4cxmw28jb4gjy2cp3dceuw87uehzbybvpuqde8vpx43r5fvfd8gyunxnbg8zuh6x5q3ty3uctc6gnehr4rv558nz43r6u88nyuc8a=.m3u8
 #EXTINF:0,QAFQAZ TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/qafkaz/index.m3u8
@@ -61,7 +61,7 @@ https://str1.yodacdn.net/bakutv/index.m3u8
 https://str1.yodacdn.net/tmbtr/index.m3u8
 #EXTINF:0,ARB 24
 #EXTGRP:unsorted
-https://str1.yodacdn.net/arb24/index.m3u8
+https://node1-az-baku-delta.streamy.group/stream/vwbnncxfi6t6cqfj79w99jxwqmqu4ptfesqeiw8iyvmcdvbuxw9968dkwudapr2eyzdgjfdq3rii5hzfhhirxzp9fib5ewb92eev3th4na4suuz73w4xy2fgv4rh7bmqhgqchf4tsb89zmujj7jx26i5htmt4g5vr46rgetcst87k97db5jz7zk82dzc5wa=.m3u8
 #EXTINF:0,REAL TV
 #EXTGRP:unsorted
 https://node2-az-baku-delta.streamy.group/stream/ud8jfi5cakdb6dmw2qgwj6cbwvyuckjkp4ncfxew3j8srmyptqpdhgz4pg7hqjdw2vitiha5fcxs7esmcufpwc3brw7yyivzvuhfzu9tpdfubmp4xhehsr2qthbk6xscdezyznrpacmrdcvtyr9wxueifvyqyc3jskt9nq3xs75krn93pmxb44s=.m3u8
@@ -103,7 +103,7 @@ https://tv.gunaz.tv/hls/live.m3u8
 https://str1.yodacdn.net/kanal35/index.m3u8
 #EXTINF:0,DUNYA TV
 #EXTGRP:unsorted
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+https://node2-az-baku-delta.streamy.group/stream/ztwzpb4sjp9kk7zzcbip922hc8m5f6pwuu9idqijam8iytuzuj9mhf2h9jzx8hzjsr69nmnqf6qq7cegvcc9yjr6xfewc8qaqib4ndw5q4sn32843c63hvgcspvxzb7b2iuuazbba672evd9yjz7g4hgbwq2537enh6fyqs3pv6aexfvybpj7ps=.m3u8
 #EXTINF:0,ALVIN TV
 #EXTGRP:unsorted
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
