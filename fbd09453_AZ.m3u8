@@ -152,6 +152,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTINF:0,MUSIC AZERBAIJAN HIT TV
 #EXTGRP:unsorted
 https://helga.iptv2022.com/sh/Music_Azerbaycan_Hit/index.m3u8
-EXTINF:0,MUSIC AZERBAIJAN TV
+#EXTINF:0,MUSIC AZERBAIJAN TV
 #EXTGRP:unsorted
 https://helga.iptv2022.com/sh/Music_Azerbaycan/index.m3u8
