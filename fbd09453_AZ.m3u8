@@ -5,30 +5,21 @@ http://str2.yodacdn.net/atv/index.m3u8
 #EXTINF:0,ATV AZ HD
 #EXTGRP:unsorted
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:0,ARB TV AZ
-#EXTGRP:unsorted
-https://str1.yodacdn.net/arb/index.m3u8
 #EXTINF:0,ARB TV AZ HD
 #EXTGRP:unsorted
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
+#EXTINF:0,ARB TV AZ
+#EXTGRP:unsorted
+https://helga.iptv2022.com/sh/arb_az/index.m3u8
 #EXTINF:0,XEZER HD
 #EXTGRP:unsorted
 https://helga.iptv2022.com/sh/xezer_az/index.m3u8
-#EXTINF:0,XEZER
-#EXTGRP:unsorted
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:0,Space TV AZ
 #EXTGRP:unsorted
 http://str2.yodacdn.net/space/tracks-v1a1/index.m3u8
-#EXTINF:0,Ictimai TV AZ
-#EXTGRP:unsorted
-http://str1.yodacdn.net/ictimaitele/index.m3u8
 #EXTINF:0,Ictimai TV AZ HD
 #EXTGRP:unsorted
-https://live.itv.az/itv.m3u8#EXTGRP:unsorted
-#EXTINF:0,Ictimai TV
-#EXTGRP:unsorted
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/ictimai-tv.m3u8
+https://helga.iptv2022.com/sh/itv_az/index.m3u8
 #EXTINF:0,AZTV
 #EXTGRP:unsorted
 http://str1.yodacdn.net/azertv/index.m3u8
