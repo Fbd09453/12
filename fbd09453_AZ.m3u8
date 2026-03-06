@@ -52,7 +52,7 @@ https://str1.yodacdn.net/tmbtr/index.m3u8
 https://helga.iptv2022.com/sh/arb24_az/index.m3u8
 #EXTINF:0,REAL TV
 #EXTGRP:unsorted
-https://helga.iptv2022.com/sh/realtv_az/index.m3u8
+https://helga.iptv2022.com/realtv_az/tracks-v5a1/index.m3u8
 #EXTINF:0,KANAL S
 #EXTGRP:unsorted
 http://str2.yodacdn.net/start/tracks-v1a1/index.m3u8
@@ -61,7 +61,7 @@ http://str2.yodacdn.net/start/tracks-v1a1/index.m3u8
 https://helga.iptv2022.com/sh/arb_gunes_az/index.m3u8
 #EXTINF:0,MEDENIYYET HD
 #EXTGRP:unsorted
-https://helga.iptv2022.com/sh/medeniyyet_az/index.m3u8
+https://helga.iptv2022.com/medeniyyet_az/tracks-v5a1/index.m3u8
 #EXTINF:0,ELTV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/eltv/index.m3u8
@@ -88,7 +88,7 @@ https://tv.gunaz.tv/hls/live.m3u8
 https://str1.yodacdn.net/kanal35/index.m3u8
 #EXTINF:0,DUNYA TV
 #EXTGRP:unsorted
-https://helga.iptv2022.com/sh/dunaytv_az/index.m3u8
+https://helga.iptv2022.com/dunaytv_az/tracks-v5a1/index.m3u8
 #EXTINF:0,ALVIN TV
 #EXTGRP:unsorted
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
