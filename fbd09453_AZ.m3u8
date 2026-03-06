@@ -7,7 +7,7 @@ http://str2.yodacdn.net/atv/index.m3u8
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:0,ARB TV AZ HD
 #EXTGRP:unsorted
-https://helga.iptv2022.com/sh/arb_az/index.m3u8
+https://helga.iptv2022.com/arb_az/tracks-v5a1/mono.m3u8
 #EXTINF:0,XEZER HD
 #EXTGRP:unsorted
 https://helga.iptv2022.com/sh/xezer_az/index.m3u8
