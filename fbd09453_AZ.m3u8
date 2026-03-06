@@ -7,9 +7,6 @@ http://str2.yodacdn.net/atv/index.m3u8
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:0,ARB TV AZ HD
 #EXTGRP:unsorted
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
-#EXTINF:0,ARB TV AZ
-#EXTGRP:unsorted
 https://helga.iptv2022.com/sh/arb_az/index.m3u8
 #EXTINF:0,XEZER HD
 #EXTGRP:unsorted
@@ -43,7 +40,7 @@ http://str2.yodacdn.net/ntv/tracks-v1a1/index.m3u8
 https://str1.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:0,CBC AZ
 #EXTGRP:unsorted
-https://str1.yodacdn.net/cbc/index.m3u8
+https://helga.iptv2022.com/sh/cbc_az/index.m3u8
 #EXTINF:0,BAKU TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/bakutv/index.m3u8
@@ -64,10 +61,7 @@ http://str2.yodacdn.net/start/tracks-v1a1/index.m3u8
 https://helga.iptv2022.com/sh/arb_gunes_az/index.m3u8
 #EXTINF:0,MEDENIYYET HD
 #EXTGRP:unsorted
-https://str1.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:0,MEDENIYYET
-#EXTGRP:unsorted
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/medeniyet-tv.m3u8
+https://helga.iptv2022.com/sh/medeniyyet_az/index.m3u8
 #EXTINF:0,ELTV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/eltv/index.m3u8
