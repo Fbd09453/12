@@ -19,7 +19,7 @@ http://str2.yodacdn.net/space/tracks-v1a1/index.m3u8
 https://helga.iptv2022.com/sh/itv_az/index.m3u8
 #EXTINF:0,AZTV
 #EXTGRP:unsorted
-http://str1.yodacdn.net/azertv/index.m3u8
+https://helga.iptv2022.com/sh/aztv_az/index.m3u8
 #EXTINF:0,IDMAN
 #EXTGRP:unsorted
 https://str1.yodacdn.net/idmantele/index.m3u8
