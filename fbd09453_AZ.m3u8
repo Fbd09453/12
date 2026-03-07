@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,ATV AZ
 #EXTGRP:unsorted
-http://str2.yodacdn.net/atv/index.m3u8
+https://helga.iptv2022.com/atv_az/tracks-v5a1/mono.m3u8
 #EXTINF:0,ATV AZ HD
 #EXTGRP:unsorted
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
