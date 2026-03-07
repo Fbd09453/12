@@ -13,7 +13,7 @@ https://helga.iptv2022.com/arb_az/tracks-v5a1/mono.m3u8
 https://helga.iptv2022.com/xezer_az/tracks-v5a1/mono.m3u8
 #EXTINF:0,Space TV AZ
 #EXTGRP:unsorted
-http://str2.yodacdn.net/space/tracks-v1a1/mono.m3u8
+https://helga.iptv2022.com/spacetv_az/tracks-v5a1/mono.m3u8
 #EXTINF:0,Ictimai TV AZ HD
 #EXTGRP:unsorted
 https://helga.iptv2022.com/itv_az/tracks-v5a1/mono.m3u8
@@ -25,7 +25,7 @@ https://helga.iptv2022.com/aztv_az/tracks-v5a1/mono.m3u8
 https://str1.yodacdn.net/idmantele/index.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:unsorted
-https://str1.yodacdn.net/tmbaz/index.m3u8
+https://helga.iptv2022.com/tmb_az/tracks-v5a1/mono.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/apatv/index.m3u8
