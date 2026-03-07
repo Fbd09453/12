@@ -37,7 +37,7 @@ http://str2.yodacdn.net/ntv/tracks-v1a1/index.m3u8
 https://str1.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:0,CBC AZ
 #EXTGRP:unsorted
-https://helga.iptv2022.com/cbc_az/tracks-v5a1/mono.m3u8
+https://helga.iptv2022.com/cbc_az/tracks-v4a1/mono.m3u8
 #EXTINF:0,BAKU TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/bakutv/index.m3u8
@@ -46,10 +46,10 @@ https://str1.yodacdn.net/bakutv/index.m3u8
 https://str1.yodacdn.net/tmbtr/index.m3u8
 #EXTINF:0,ARB 24
 #EXTGRP:unsorted
-https://helga.iptv2022.com/arb24_az/tracks-v5a1/mono.m3u8
+https://helga.iptv2022.com/arb24_az/tracks-v4a1/mono.m3u8
 #EXTINF:0,REAL TV
 #EXTGRP:unsorted
-https://helga.iptv2022.com/realtv_az/tracks-v5a1/index.m3u8
+https://helga.iptv2022.com/realtv_az/tracks-v4a1/index.m3u8
 #EXTINF:0,KANAL S
 #EXTGRP:unsorted
 http://str2.yodacdn.net/start/tracks-v1a1/index.m3u8
