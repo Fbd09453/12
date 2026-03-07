@@ -25,7 +25,7 @@ https://helga.iptv2022.com/aztv_az/tracks-v5a1/mono.m3u8
 https://str1.yodacdn.net/idmantele/index.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:unsorted
-https://helga.iptv2022.com/tmb_az/tracks-v4a1/mono.m3u8
+https://str2.yodacdn.net/tmbaz/index.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/apatv/index.m3u8
@@ -140,3 +140,6 @@ https://helga.iptv2022.com/sh/Music_Azerbaycan_Hit/index.m3u8
 #EXTINF:0,MUSIC AZERBAIJAN TV
 #EXTGRP:unsorted
 https://helga.iptv2022.com/sh/Music_Azerbaycan/index.m3u8
+#EXTINF:0,VOSTOK TV
+#EXTGRP:unsorted
+https://str2.yodacdn.net/tmb/index.m3u8
