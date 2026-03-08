@@ -140,3 +140,6 @@ https://helga.iptv2022.com/sh/Music_Azerbaycan/index.m3u8
 #EXTINF:0,VOSTOK TV
 #EXTGRP:unsorted
 https://str2.yodacdn.net/tmb/index.m3u8
+#EXTINF:0,STV HD AZ
+#EXTGRP:unsorted
+https://helga.iptv2022.com/sh/STV_HD/index.m3u8
