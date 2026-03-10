@@ -86,9 +86,6 @@ https://str1.yodacdn.net/kanal35/index.m3u8
 #EXTINF:0,DUNYA TV
 #EXTGRP:unsorted
 https://helga.iptv2022.com/dunaytv_az/tracks-v4a1/mono.m3u8
-#EXTINF:0,ALVIN TV
-#EXTGRP:unsorted
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:0,DREAM TURK
 #EXTGRP:unsorted
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
@@ -101,9 +98,6 @@ https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/t
 #EXTINF:0,SHOW PLUS TV
 #EXTGRP:unsorted
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:0,ALVIN OVCU
-#EXTGRP:unsorted
-https://catcast.ismailturret.workers.dev/alvinovcu.m3u8
 #EXTINF:0,LIVETV AZ
 #EXTGRP:unsorted
 https://tv.mobyservice.ru/livetv/index.m3u8
