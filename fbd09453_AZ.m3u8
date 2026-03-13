@@ -22,7 +22,7 @@ https://helga.iptv2022.com/sh/aztv_az/index.m3u8
 https://str1.yodacdn.net/idmantele/index.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:unsorted
-https://helga.iptv2022.com/sh/tmb_az/index.m3u8
+https://str1.yodacdn.net/tmbaz/index.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/apatv/index.m3u8
