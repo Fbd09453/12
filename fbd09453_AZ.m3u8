@@ -10,19 +10,19 @@ https://helga.iptv2022.com/sh/arb_az/index.m3u8
 https://helga.iptv2022.com/sh/xezer_az/index.m3u8
 #EXTINF:0,Space TV AZ
 #EXTGRP:unsorted
-https://helga.iptv2022.com/spacetv_az/tracks-v4a1/mono.m3u8
+https://helga.iptv2022.com/sh/spacetv_az/index.m3u8
 #EXTINF:0,Ictimai TV AZ HD
 #EXTGRP:unsorted
-https://helga.iptv2022.com/itv_az/tracks-v4a1/mono.m3u8
+https://helga.iptv2022.com/sh/itv_az/index.m3u8
 #EXTINF:0,AZTV
 #EXTGRP:unsorted
-https://helga.iptv2022.com/aztv_az/tracks-v4a1/mono.m3u8
+https://helga.iptv2022.com/sh/aztv_az/index.m3u8
 #EXTINF:0,IDMAN
 #EXTGRP:unsorted
 https://str1.yodacdn.net/idmantele/index.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:unsorted
-https://str2.yodacdn.net/tmbaz/index.m3u8
+https://helga.iptv2022.com/sh/tmb_az/index.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/apatv/index.m3u8
@@ -37,7 +37,7 @@ http://str2.yodacdn.net/ntv/tracks-v1a1/index.m3u8
 https://str1.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:0,CBC AZ
 #EXTGRP:unsorted
-https://helga.iptv2022.com/cbc_az/tracks-v4a1/mono.m3u8
+https://helga.iptv2022.com/sh/cbc_az/index.m3u8
 #EXTINF:0,BAKU TV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/bakutv/index.m3u8
@@ -46,7 +46,7 @@ https://str1.yodacdn.net/bakutv/index.m3u8
 https://str1.yodacdn.net/tmbtr/index.m3u8
 #EXTINF:0,ARB 24
 #EXTGRP:unsorted
-https://helga.iptv2022.com/arb24_az/tracks-v4a1/mono.m3u8
+https://helga.iptv2022.com/sh/arb24_az/index.m3u8
 #EXTINF:0,REAL TV
 #EXTGRP:unsorted
 https://helga.iptv2022.com/sh/realtv_az/index.m3u8
@@ -55,10 +55,10 @@ https://helga.iptv2022.com/sh/realtv_az/index.m3u8
 http://str2.yodacdn.net/start/tracks-v1a1/index.m3u8
 #EXTINF:0,ARB GUNES
 #EXTGRP:unsorted
-https://helga.iptv2022.com/arb_gunes_az/tracks-v4a1/mono.m3u8
+https://helga.iptv2022.com/sh/arb_gunes_az/index.m3u8
 #EXTINF:0,MEDENIYYET HD
 #EXTGRP:unsorted
-https://helga.iptv2022.com/medeniyyet_az/tracks-v4a1/mono.m3u8
+https://helga.iptv2022.com/sh/medeniyyet_az/index.m3u8
 #EXTINF:0,ELTV
 #EXTGRP:unsorted
 https://str1.yodacdn.net/eltv/index.m3u8
@@ -85,7 +85,7 @@ https://tv.gunaz.tv/hls/live.m3u8
 https://str1.yodacdn.net/kanal35/index.m3u8
 #EXTINF:0,DUNYA TV
 #EXTGRP:unsorted
-https://helga.iptv2022.com/dunaytv_az/tracks-v4a1/mono.m3u8
+https://helga.iptv2022.com/sh/dunaytv_az/index.m3u8
 #EXTINF:0,DREAM TURK
 #EXTGRP:unsorted
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
